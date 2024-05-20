@@ -12,7 +12,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=fff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=fff"/></a>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=JAEWOONG1107)](https://github.com/JAEWOONG1107/github-readme-stats)
+[![YebinKim's github stats](https://github-readme-stats.vercel.app/api?username=JAEWOONG1107&custom_title={타이틀(string)}&bg_color=45deg,2ea,2b2b2b&title_color={타이틀 색(hex)}&text_color={타이틀 색(hex)})](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JAEWOONG1107/JAEWOONG1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
