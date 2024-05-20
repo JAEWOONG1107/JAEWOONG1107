@@ -9,7 +9,7 @@
 <a href="#"><img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=ffffff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=333"/></a>
 
-### Graphic
+### GRAPHIC
 <a href="#"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=fff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=fff"/></a>
 
