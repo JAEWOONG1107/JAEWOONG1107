@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-
+<p>I'm Seo Jaewoong</p>
 
 ### STACKS
 <a href="#"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff"/></a>
