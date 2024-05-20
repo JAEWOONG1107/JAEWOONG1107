@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Mail-ffffff?style=for-the-badge&logo=Mail.Ru&logoColor=005FF9"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Mail-005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=ffffff"/></a>
 
 <!--
 **JAEWOONG1107/JAEWOONG1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
