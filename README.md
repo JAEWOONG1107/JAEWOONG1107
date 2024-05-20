@@ -7,7 +7,11 @@
 <a href="#"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff"/></a>
 <a href="#"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/></a>
 <a href="#"><img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=ffffff"/></a>
-<a href="#"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=333"/></a>
+<a href="#"><img src="https://img.shields.io/badge/adobephotoshop-61DAFB?style=for-the-badge&logo=adobephotoshop&logoColor=fff"/></a>
+
+<br />
+<a href="#"><img src="https://img.shields.io/badge/react-31A8FF?style=for-the-badge&logo=react&logoColor=333"/></a>
+
 
 <!--
 **JAEWOONG1107/JAEWOONG1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
