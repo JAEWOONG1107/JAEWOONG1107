@@ -10,7 +10,7 @@
 <a href="#"><img src="https://img.shields.io/badge/react-31A8FF?style=for-the-badge&logo=react&logoColor=333"/></a>
 
 <br />
-<a href="#"><img src="https://img.shields.io/badge/adobephotoshop-61DAFB?style=for-the-badge&logo=adobephotoshop&logoColor=fff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Photoshop-61DAFB?style=for-the-badge&logo=adobephotoshop&logoColor=fff"/></a>
 
 <!--
 **JAEWOONG1107/JAEWOONG1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
